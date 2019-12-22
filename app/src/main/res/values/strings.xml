@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Notes Taker</string>
+    <string name="title_activity_notes_list">NotesListActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_note">New Note</string>
+    <string name="description">Description</string>
+    <string name="note_title">Note Title</string>
+    <string name="share">Share</string>
+    <string name="user_id">USER_ID</string>
+    <string name="pref_file">ngenge.app.notestake.PREF_FILE</string>
+    <string name="sync_command">SYNC_COMMAND</string>
+    <string name="sync_online">Sync Online</string>
+    <string name="sync_offline">Sync Offline</string>
+    <string name="get_notes_string">Getting notes offline</string>
+    <string name="update_online">Updating your notes online</string>
+    <string name="delete">Delete</string>
+    <string name="note_details">Note Details</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626249261826",
+    "firebase_url": "https://notes-taker-147e2.firebaseio.com",
+    "project_id": "notes-taker-147e2",
+    "storage_bucket": "notes-taker-147e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626249261826:android:4132f6797b0567f1cb181b",
+        "android_client_info": {
+          "package_name": "com.ngenge.apps.notestaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626249261826-59r1pbsrgb2j4jv94m4jvsjcn5ngipp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngenge.apps.notestaker",
+            "certificate_hash": "44d22b13330f0d84f00108d65d2a92182052b8fd"
+          }
+        },
+        {
+          "client_id": "626249261826-ngd0rav9j3j79papf72snad69rdt8ksn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABwThzpB71e5HfTZZDE3XdaPVOYjVjxK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626249261826-ngd0rav9j3j79papf72snad69rdt8ksn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

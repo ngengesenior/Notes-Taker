@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sync_online"
+        android:title="@string/sync_online"/>
+    <item android:title="@string/sync_offline"
+        android:id="@+id/sync_offline"/>
+
+
+</menu>
