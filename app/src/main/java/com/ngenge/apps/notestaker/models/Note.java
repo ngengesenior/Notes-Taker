@@ -22,6 +22,10 @@ public class Note implements Parcelable {
     private long dateTime;
 
 
+    public Note(){
+
+    }
+
     protected Note(Parcel in) {
         id = in.readInt();
         title = in.readString();
