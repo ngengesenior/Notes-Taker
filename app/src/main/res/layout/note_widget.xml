@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="@dimen/widget_margin">
+
+    <TextView
+        android:id="@+id/notetitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        tools:text="Hello there"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/notetitleTextView"
+        android:id="@+id/noteBodyTextView"/>
+
+
+</RelativeLayout>

@@ -4,6 +4,14 @@ apply plugin: 'com.google.gms.google-services'
 
 
 android {
+    signingConfigs {
+        releaseConfig {
+            storeFile file('keystore.jks')
+            storePassword 'keystore'
+            keyAlias = 'keystore'
+            keyPassword 'keystore'
+        }
+    }
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
@@ -18,6 +26,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.releaseConfig
         }
     }
     compileOptions {

@@ -30,4 +30,8 @@
     <string name="update_online">Updating your notes online</string>
     <string name="delete">Delete</string>
     <string name="note_details">Note Details</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string translatable="false" name="add_widget">Add widget</string>
+    <string name="done_fab_content_description">Done floating action button to save note</string>
+    <string name="fab_new_note_ct_description">Floating action button to create new note</string>
 </resources>
